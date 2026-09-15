@@ -13,6 +13,11 @@
   <Folder Name="/Task3/">
     <Project Path="Tyuiu.ShahurinRA.Sprint0.Task3.V0.Lib/Tyuiu.ShahurinRA.Sprint0.Task3.V0.Lib.csproj" Id="e0d4a49f-e39b-4690-a542-627b832bbcb0" />
     <Project Path="Tyuiu.ShahurinRA.Sprint0.Task3.V0.Test/Tyuiu.ShahurinRA.Sprint0.Task3.V0.Test.csproj" Id="f92919aa-150b-4239-b115-37190446a1c4" />
-    <Project Path="Tyuiu.ShahurinRA.Sprint0.Task3.V0/Tyuiu.ShahurinRA.Sprint0.Task3.V0..csproj" Id="eeeda25a-bb16-418c-80b3-01e98cdb6680" />
+    <Project Path="Tyuiu.ShahurinRA.Sprint0.Task3.V0/Tyuiu.ShahurinRA.Sprint0.Task3.V0.csproj" Id="eeeda25a-bb16-418c-80b3-01e98cdb6680" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.ShahurinRA.Sprint0.Task4.V0.Lib/Tyuiu.ShahurinRA.Sprint0.Task4.V0.Lib.csproj" Id="eaec770c-438a-4d76-8a1d-bc2fd1309986" />
+    <Project Path="Tyuiu.ShahurinRA.Sprint0.Task4.V0.Test/Tyuiu.ShahurinRA.Sprint0.Task4.V0.Test.csproj" Id="5183b666-92a8-46a3-8354-1d41c0d44c46" />
+    <Project Path="Tyuiu.ShahurinRA.Sprint0.Task4.V0/Tyuiu.ShahurinRA.Sprint0.Task4.V0.csproj" Id="6dfeaabc-1b0c-484f-bc11-7e02ab075e1e" />
   </Folder>
 </Solution>
