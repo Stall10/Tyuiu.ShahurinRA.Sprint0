@@ -5,7 +5,7 @@ namespace Tyuiu.ShahurinRA.Sprint0.Task3.V0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DataService.Sum(7, 7));
+            Console.WriteLine(DataService.Sum(5, 5));
             Console.ReadKey();
         }
     }
